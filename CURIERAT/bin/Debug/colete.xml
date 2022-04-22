@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<colete>
+  <colet>
+    <cod_colet>2</cod_colet>
+    <locatie>Turda</locatie>
+    <curier>DA</curier>
+    <traseuoptim>Daca s-au terminat coletele in Cluj</traseuoptim>
+  </colet>
+  <colet>
+    <cod_colet>1</cod_colet>
+    <locatie>Cluj</locatie>
+    <curier>Curier1</curier>
+    <traseuoptim>prioriatar</traseuoptim>
+  </colet>
+  <colet>
+    <cod_colet>41</cod_colet>
+    <locatie>Cluj</locatie>
+    <curier>Curier3</curier>
+    <traseuoptim>prioriatar</traseuoptim>
+  </colet>
+  <colet>
+    <cod_colet>7</cod_colet>
+    <locatie>Floresti</locatie>
+    <curier>Curier1</curier>
+    <traseuoptim>Dupa Cluj si Turda</traseuoptim>
+  </colet>
+  <colet>
+    <cod_colet>88</cod_colet>
+    <locatie>cluj</locatie>
+    <curier>Curier3</curier>
+    <traseuoptim></traseuoptim>
+  </colet>
+  <colet>
+    <cod_colet>5</cod_colet>
+    <locatie>Cluj</locatie>
+    <curier>Curier2</curier>
+    <traseuoptim>prioriatar</traseuoptim>
+  </colet>
+</colete>
